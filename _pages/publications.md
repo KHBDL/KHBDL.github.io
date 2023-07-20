@@ -12,7 +12,7 @@ author_profile: true
     <span>Jiamin Xu, Haobin Ke, etc.<br>IEEE Transactions on Industrial Informatics, 2022</span>
   </div>
 </div>
-
+---
 <div style="display: flex; align-items: center;">
   <img src="../images/MCDAGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
   <div style="display: flex; flex-direction: column;">
@@ -20,7 +20,7 @@ author_profile: true
     <span>Zhiwen Chen, Haobin Ke, etc.<br>IEEE Transactions on Industrial Informatics, 2023</span>
   </div>
 </div>
-
+---
 <div style="display: flex; align-items: center;">
   <img src="../images/TFHGNN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
   <div style="display: flex; flex-direction: column;">
@@ -28,4 +28,4 @@ author_profile: true
     <span>Haobin Ke, Zhiwen Chen, etc.<br>The 2023 IEEE 12th Data Driven Control and Learning Systems Conference, 2023 (Best paper award finalist)</span>
   </div>
 </div>
-
+---
