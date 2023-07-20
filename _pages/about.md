@@ -12,7 +12,7 @@ I'm a third year graduate student from [School of Automation](https://soa.csu.ed
 
 I am very fortunate to be advised by [Prof. Zhiwen Chen](https://faculty.csu.edu.cn/zhiwen_chen/zh_CN/index.htm) of Rail Energy Saving Control and Safety Monitoring Lab from [School of Automation](https://soa.csu.edu.cn/), Central South University.
 
-You can find my CV here: [Haobin Ke's Curriculum Vitae]().
+You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Email：haobin.ke@outlook.com 
 
