@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Zhiwen Chen](https://faculty.csu.edu
 
 You can find my CV here: [Haobin Ke's Curriculum Vitae]().
 
-[Email](haobin.ke@outlook.com) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+Email：haobin.ke@outlook.com 
 
 
 A data-driven personal website
