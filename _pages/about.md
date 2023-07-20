@@ -14,11 +14,11 @@ I am very fortunate to be advised by [Prof. Zhiwen Chen](https://faculty.csu.edu
 
 You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email：haobin.ke@outlook.com 
+* Email：haobin.ke@outlook.com 
 
-Languages： Chinese, English, Cantonese.
+* Languages： Chinese, English, Cantonese.
 
-Skill: Python, C#, SQL and SCM programme.
+* Skill: Python, C#, SQL and SCM programme.
 
 Education Background
 ======
