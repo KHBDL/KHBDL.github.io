@@ -16,42 +16,40 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 
 Email：haobin.ke@outlook.com 
 
+Languages： Chinese, English, Cantonese.
 
 Education Background
 ======
-•	09/2017-06/2021: BEng in Automation (Outstanding Graduates), School of Automation, Guangdong University of Technology, Guangdong, China.
-•	09/2021-Now: M.E. student in Control Science and Engineering, School of Automation, Central South University, Changsha, China.
+1. 09/2017-06/2021: BEng in Automation (Outstanding Graduates), School of Automation, Guangdong University of Technology, Guangdong, China.
+2. 09/2021-Now: M.E. student in Control Science and Engineering, School of Automation, Central South University, Changsha, China.
 
 
-Getting started
+Research Funding/Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Fundamental Research Foundation for Postgraduate Student.
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Funding name: Research on Few Samples Fault Diagnosis of Railway Electric Traction System Based on Graph Network.
+2. Timeline: Jan.2021-Dec.2023
+3. My job: Project Leader
+4. Responsibilities: a) Construct graph topology of traction system based on physical mechanism and data similarity b) Adopt the graph mapping method to analyse the fault diagnosability of traction systems; c) Establish advanced graph learning methods for high-precision health monitoring for the rail transit traction drive systems.
 
-Create content & metadata
+Corporate Partnership Project
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. Funding name: Intelligent monitoring platform for coal mine safety production.
+2. Timeline: Dec. 2021-Now
+3. My job: Main member in charge
+4. Responsibilities: a) Communicate and report project progress with partner enterprise. (The monitoring platform has been deployed to several coal mines in Hunan Province and connected with the National Mine Safety Administration); b) Participate in the whole process development of the monitoring platform, including equipment adjusting, system scheme design, model training, alarm logic construction, algorithm deployment, on-site testing, etc; 
 
-**Markdown generator**
+Awards
+======
+1. First Class Undergraduate Scholarship in 2017, 2018 and 2019.
+2. Model Student of Academic Records in 2017, 2018 and 2019.
+3. Honourable Winner of Mathematical Contest in Modelling in 2019.
+4. Outstanding Graduate of Guangdong University of Technology in 2021.
+5. Top Ten Outstanding Graduates in School of Automation, 2021.
+6. Outstanding Undergraduate Theses of Guangdong University of Technology in 2021.
+7. Postgraduate Scholarship in 2021, 2022, 2023. 
+8. The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
+9. The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
