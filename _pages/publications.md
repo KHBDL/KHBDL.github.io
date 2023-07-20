@@ -23,6 +23,6 @@ author_profile: true
 </style>
 
 <div class="image-text-container">
-  <img src="../images/profile.png" alt="Image" width="200" height="150">
+  <img src="../images/profile.png" alt="Image" width="100" height="100">
   <p>这是一段文字，位于图片中间。继续写其他内容......</p>
 </div>
