@@ -23,6 +23,7 @@ author_profile: true
 </style>
 
 <div class="image-text-container">
-  <img src="../images/profile.png" alt="Image" width="100" height="100">
-  <p>这是一段文字，位于图片中间。继续写其他内容......</p>
+  <img src="../images/TFHGCN.png" alt="Image" width="100" height="100">
+  <p>Time-frequency Hypergraph Neural Network for Rotating Machinery Fault Diagnosis with Limited Data[C]. The 2023 IEEE 12th Data Driven Control and Learning Systems Conference, 2023 (Best paper award finalist)
+</p>
 </div>
