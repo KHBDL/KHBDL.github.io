@@ -19,3 +19,11 @@ author_profile: true
     *The 2023 IEEE 12th Data Driven Control and Learning Systems Conference* [Time-frequency Hypergraph Neural Network for Rotating Machinery Fault Diagnosis with Limited Data](https://ieeexplore.ieee.org/abstract/document/10167156)
   </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/OSRGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
+  <div style="display: flex; flex-direction: column;">
+    <span style="font-weight: bold;">Over-smoothing Relief Graph Convolutional Network-Based Fault Diagnosis Method With Application to the Rectifier of High-Speed Trains [J]</span>
+    <span>Jiamin Xu, Haobin Ke, etc.<br>IEEE Transactions on Industrial Informatics, 2022</span>
+  </div>
+</div>
