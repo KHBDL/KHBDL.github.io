@@ -18,6 +18,8 @@ Email：haobin.ke@outlook.com
 
 Languages： Chinese, English, Cantonese.
 
+Skill: Python, C#, SQL and SCM programme.
+
 Education Background
 ======
 * B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.
@@ -36,13 +38,13 @@ Research Funding/Projects
 
 Awards
 ======
-1. First Class Undergraduate Scholarship in 2017, 2018 and 2019.
-2. Model Student of Academic Records in 2017, 2018 and 2019.
-3. Honourable Winner of Mathematical Contest in Modelling in 2019.
-4. Outstanding Graduate of Guangdong University of Technology in 2021.
-5. Top Ten Outstanding Graduates in School of Automation, 2021.
-6. Outstanding Undergraduate Theses of Guangdong University of Technology in 2021.
-7. Postgraduate Scholarship in 2021, 2022, 2023. 
-8. The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
-9. The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference
+* First Class Undergraduate Scholarship in 2017, 2018 and 2019.
+* Model Student of Academic Records in 2017, 2018 and 2019.
+* Honourable Winner of Mathematical Contest in Modelling in 2019.
+* Outstanding Graduate of Guangdong University of Technology in 2021.
+* Top Ten Outstanding Graduates in School of Automation, 2021.
+* Outstanding Undergraduate Theses of Guangdong University of Technology in 2021.
+* Postgraduate Scholarship in 2021, 2022, 2023. 
+* The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
+* The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference
 
