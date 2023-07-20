@@ -5,19 +5,33 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-1. My undergraduate graduation ceremony
----
-<img src="../images/1.jpg" alt="pic1">
----
-<img src="../images/2.jpg" alt="pic1">
----
-<img src="../images/3.jpg" alt="pic1">
----
-1. My undergraduate graduation ceremony
----
-<img src="../images/1.jpg" alt="pic1">
----
-<img src="../images/2.jpg" alt="pic1">
----
-<img src="../images/3.jpg" alt="pic1">
----
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .image-container {
+    max-width: 300px; /* 设置图片容器的最大宽度 */
+    display: block; /* 让图片容器作为块级元素，使图片位于文字下方 */
+    margin-bottom: 10px; /* 设置图片容器与下方文字之间的间距 */
+  }
+
+  .image-container img {
+    width: 50%; /* 设置图片的宽度为容器宽度的100%，实现等比例缩小 */
+    height: auto; /* 自动计算图片的高度，以保持图片比例不变 */
+  }
+</style>
+</head>
+<body>
+
+<p>1. My undergraduate graduation ceremony：</p>
+
+<div class="image-container">
+  <img src="../images/1.jpg" alt="pic1">
+  <img src="../images/2.jpg" alt="pic2">
+  <img src="../images/3.jpg" alt="pic3">
+</div>
+
+<p>1. My undergraduate graduation ceremony</p>
+
+</body>
+</html>
