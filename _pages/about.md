@@ -20,26 +20,19 @@ Languages： Chinese, English, Cantonese.
 
 Education Background
 ======
-1. 09/2017-06/2021: BEng in Automation (Outstanding Graduates), School of Automation, Guangdong University of Technology, Guangdong, China.
-2. 09/2021-Now: M.E. student in Control Science and Engineering, School of Automation, Central South University, Changsha, China.
+* B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.
+* M.S. in Control Science and Engineering, Central South University, now.
 
 
 Research Funding/Projects
 ======
+* Jan.2021-Dec.2023: Research on Few Samples Fault Diagnosis of Railway Electric Traction System Based on Graph Network
+  * My job: Project Leader
+  * Responsibilities: a) Construct graph topology of traction system based on physical mechanism and data similarity b) Adopt the graph mapping method to analyse the fault diagnosability of traction systems; c) Establish advanced graph learning methods for high-precision health monitoring for the rail transit traction drive systems.
 
-Fundamental Research Foundation for Postgraduate Student.
-------
-1. Funding name: Research on Few Samples Fault Diagnosis of Railway Electric Traction System Based on Graph Network.
-2. Timeline: Jan.2021-Dec.2023
-3. My job: Project Leader
-4. Responsibilities: a) Construct graph topology of traction system based on physical mechanism and data similarity b) Adopt the graph mapping method to analyse the fault diagnosability of traction systems; c) Establish advanced graph learning methods for high-precision health monitoring for the rail transit traction drive systems.
-
-Corporate Partnership Project
-------
-1. Funding name: Intelligent monitoring platform for coal mine safety production.
-2. Timeline: Dec. 2021-Now
-3. My job: Main member in charge
-4. Responsibilities: a) Communicate and report project progress with partner enterprise. (The monitoring platform has been deployed to several coal mines in Hunan Province and connected with the National Mine Safety Administration); b) Participate in the whole process development of the monitoring platform, including equipment adjusting, system scheme design, model training, alarm logic construction, algorithm deployment, on-site testing, etc; 
+* Dec.2021-Now: Intelligent monitoring platform for coal mine safety production
+  * My job: Main member in charge
+  * Responsibilities: a) Communicate and report project progress with partner enterprise. (The monitoring platform has been deployed to several coal mines in Hunan Province and connected with the National Mine Safety Administration); b) Participate in the whole process development of the monitoring platform, including equipment adjusting, system scheme design, model training, alarm logic construction, algorithm deployment, on-site testing, etc; 
 
 Awards
 ======
