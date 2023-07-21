@@ -16,7 +16,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 
 * Email：haobin.ke@outlook.com 
 
-* Languages： Chinese, English, Cantonese.
+* Languages: Chinese, English, Cantonese.
 
 * Skill: Python, C#, SQL and SCM programme.
 
