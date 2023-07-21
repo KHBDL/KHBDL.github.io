@@ -9,7 +9,7 @@ author_profile: true
   <img src="../images/OSRGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
   <div style="display: flex; flex-direction: column;">
     <span style="font-weight: bold;">1. Over-smoothing Relief Graph Convolutional Network-Based Fault Diagnosis Method With Application to the Rectifier of High-Speed Trains [J]</span>
-    <span>Jiamin Xu, Haobin Ke, etc.<br>IEEE Transactions on Industrial Informatics, 2022</span>
+    <span>Jiamin Xu, Haobin Ke (co-first author), etc.<br>IEEE Transactions on Industrial Informatics, 2022</span>
   </div>
 </div>
 ---
@@ -17,7 +17,7 @@ author_profile: true
   <img src="../images/MCDAGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
   <div style="display: flex; flex-direction: column;">
     <span style="font-weight: bold;">2. Multi-Channel Domain Adaptation Graph Convolutional Networks-Based Fault Diagnosis Method and With Its Application [J]</span>
-    <span>Zhiwen Chen, Haobin Ke, etc.<br>IEEE Transactions on Industrial Informatics, 2023</span>
+    <span>Zhiwen Chen, Haobin Ke (co-first author), etc.<br>IEEE Transactions on Industrial Informatics, 2023</span>
   </div>
 </div>
 ---
