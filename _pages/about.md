@@ -34,8 +34,12 @@ Research Funding/Projects
 
 * Dec.2021-Now: Intelligent monitoring platform for coal mine safety production
   * My job: Main member in charge
-  * Responsibilities: a) Communicate and report project progress with partner enterprise. (The monitoring platform has been deployed to several coal mines in Hunan Province and connected with the National Mine Safety Administration); b) Participate in the whole process development of the monitoring platform, including equipment adjusting, system scheme design, model training, alarm logic construction, algorithm deployment, on-site testing, etc; 
-
+  * Responsibilities: a) Communicate and report project progress with partner enterprise. (The monitoring platform has been deployed to several coal mines in Hunan Province and connected with the National Mine Safety Administration); b) Participate in the whole process development of the monitoring platform, including equipment adjusting, system scheme design, model training, alarm logic construction, algorithm deployment, on-site testing, etc;
+ 
+* Dec.2021-Dec.2022 : Archives room information management system
+  * My job: Main member in charge
+  * Responsibilities: a) Develop information management system based on WPF framework and MySQL database, including interface design, personnel login, information import, information export and information screening functions, on-site testing, etc; b) Project communication and post-maintenance.
+    
 Awards
 ======
 * First Class Undergraduate Scholarship in 2017, 2018 and 2019.
@@ -47,6 +51,6 @@ Awards
 * First Class Postgraduate Scholarship in 2021, 2023.  
 * The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
 * The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference
-* National Postgraduate Scholarship in 2023 (The highest honour in China for graduate students) .
+* Postgraduate National Scholarship in 2023 (The highest honour in China for graduate students) .
 
 
