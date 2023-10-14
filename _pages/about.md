@@ -44,7 +44,9 @@ Awards
 * Outstanding Graduate of Guangdong University of Technology in 2021.
 * Top Ten Outstanding Graduates in School of Automation, 2021.
 * Outstanding Undergraduate Theses of Guangdong University of Technology in 2021.
-* Postgraduate Scholarship in 2021, 2022, 2023. 
+* First Class Postgraduate Scholarship in 2021, 2023.  
 * The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
 * The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference
+* National Postgraduate Scholarship in 2023 (The highest honour in China for graduate students) .
+
 
