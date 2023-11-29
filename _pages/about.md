@@ -50,7 +50,7 @@ Awards
 * Outstanding Undergraduate Theses of Guangdong University of Technology in 2021.
 * First Class Postgraduate Scholarship in 2021, 2023.  
 * The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
-* The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference
-* Postgraduate National Scholarship in 2023 (The highest honour in China for graduate students) .
-
+* The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference.
+* Postgraduate National Scholarship in 2023 (The highest honour in China for graduate students).
+*	First Prize for the Graduate Student Innovation Forum Paper Presentation in Hunan Province, 2023.
 
