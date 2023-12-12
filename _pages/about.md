@@ -23,7 +23,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 Education Background
 ======
 * B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.
-* M.S. in Control Science and Engineering, Central South University, now.
+* M.S. in Control Science and Engineering, Central South University, now. (Outstanding Postgraduate Candidates Exempt from Admission Exam)
 
 
 Research Funding/Projects
