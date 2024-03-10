@@ -53,4 +53,5 @@ Awards
 * The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference.
 * Postgraduate National Scholarship in 2023 (The highest honour in China for graduate students).
 *	First Prize for the Graduate Student Innovation Forum Paper Presentation in Hunan Province, 2023.
+*	Outstanding Graduate of Central South University in 2024.
 
