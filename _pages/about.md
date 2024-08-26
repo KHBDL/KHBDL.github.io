@@ -24,7 +24,7 @@ Education Background
 ======
 * B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.09-2021.07.
 * M.S. in Control Science and Engineering (Outstanding Graduates), Central South University, 2021.09-2024.06.
-* Phd candidate in Electrical and Electronic Engineering (Funded by PGS), The Hong Kong Polytechnic University, 2024.09-now.
+* PhD candidate in Electrical and Electronic Engineering (Funded by PGS), The Hong Kong Polytechnic University, 2024.09-now.
 
 
 Research Funding/Projects
