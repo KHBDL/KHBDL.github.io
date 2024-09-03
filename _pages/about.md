@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD candidate from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes data privacy, graph Learning, data-driven fault diagnosis and computational intelligence.
+I'm a PhD candidate from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes data privacy, graph Learning, data-driven fault diagnosis and computational intelligence.
 
 You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vitae_new.pdf).
 
