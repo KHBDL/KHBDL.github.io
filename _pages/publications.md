@@ -83,6 +83,7 @@ author_profile: true
     <div style="font-weight: bold;">
       5. <a href="https://arxiv.org/abs/2512.00307" target="_blank"> 
       Adversarial Signed Graph Learning with Differential Privacy
+    </a>
     </div>
     <div>
       <strong>Haobin Ke</strong>, Sen Zhang, et al.<br>
