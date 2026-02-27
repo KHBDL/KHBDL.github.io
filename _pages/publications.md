@@ -8,7 +8,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <img src="../images/OSRGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
   <div style="display: flex; flex-direction: column;">
-    <span style="font-weight: bold;">1. Over-smoothing Relief Graph Convolutional Network-Based Fault Diagnosis Method With Application to the Rectifier of High-Speed Trains [J]</span>
+    <span style="font-weight: bold;">1. <a href="https://ieeexplore.ieee.org/abstract/document/9757832" target="_blank"> Over-smoothing Relief Graph Convolutional Network-Based Fault Diagnosis Method With Application to the Rectifier of High-Speed Trains [J]</span>
     <span>Jiamin Xu, Haobin Ke (co-first author), etc.<br>IEEE Transactions on Industrial Informatics, 2022</span>
   </div>
 </div>
