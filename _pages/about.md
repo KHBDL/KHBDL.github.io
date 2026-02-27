@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes data privacy, graph Learning, data-driven fault diagnosis and computational intelligence.
+I'm a PhD candidate from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes LLM safety and data privacy, graph Learning, data-driven fault diagnosis and computational intelligence.
 
 You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vitae_new.pdf).
 
@@ -22,7 +22,7 @@ Education Background
 ======
 * B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.09-2021.07.
 * M.S. in Control Science and Engineering (Outstanding Graduates), Central South University, 2021.09-2024.06.
-* PhD candidate in Electrical and Electronic Engineering (Funded by PGS), The Hong Kong Polytechnic University, 2024.09-now.
+* PhD student in Electrical and Electronic Engineering (Funded by PGS), The Hong Kong Polytechnic University, 2024.09-now.
 
 
 Research Funding/Projects
