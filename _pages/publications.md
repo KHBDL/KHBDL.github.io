@@ -5,37 +5,68 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="../images/OSRGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
-  <div style="display: flex; flex-direction: column;">
-    <span style="font-weight: bold;">1. <a href="https://ieeexplore.ieee.org/abstract/document/9757832" target="_blank"> Over-smoothing Relief Graph Convolutional Network-Based Fault Diagnosis Method With Application to the Rectifier of High-Speed Trains [J]</span>
-    <span>Jiamin Xu, Haobin Ke (co-first author), etc.<br>IEEE Transactions on Industrial Informatics, 2022</span>
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+  <img src="../images/OSRGCN.png" alt="OSRGCN" width="180" style="margin-right: 20px;">
+  <div>
+    <div style="font-weight: bold;">
+      1. <a href="https://ieeexplore.ieee.org/abstract/document/9757832" target="_blank">
+      Over-smoothing Relief Graph Convolutional Network-Based Fault Diagnosis Method With Application to the Rectifier of High-Speed Trains
+      </a>
+    </div>
+    <div>
+      Jiamin Xu, <strong>Haobin Ke</strong> (co-first author), et al.<br>
+      <em>IEEE Transactions on Industrial Informatics</em>, 2022
+    </div>
   </div>
 </div>
----
-<div style="display: flex; align-items: center;">
-  <img src="../images/MCDAGCN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
-  <div style="display: flex; flex-direction: column;">
-    <span style="font-weight: bold;"> 2. <a href="https://ieeexplore.ieee.org/abstract/document/9964252" target="_blank"> Multi-Channel Domain Adaptation Graph Convolutional Networks-Based Fault Diagnosis Method and With Its Application [J]</span>
-    <span>Zhiwen Chen, Haobin Ke (co-first author), etc.<br>IEEE Transactions on Industrial Informatics, 2023</span>
-  </div>
-</div>
----
-<div style="display: flex; align-items: center;">
-  <img src="../images/TFHGNN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
-  <div style="display: flex; flex-direction: column;">
-    <span style="font-weight: bold;">3. <a href="https://ieeexplore.ieee.org/abstract/document/10167156" target="_blank">Time-frequency Hypergraph Neural Network for Rotating Machinery Fault Diagnosis with Limited Data [C]. (Best paper award finalist)</span>
-    <span>Haobin Ke, Zhiwen Chen, etc.<br>The IEEE 12th Data Driven Control and Learning Systems Conference, 2023</span>
-  </div>
-</div>
----
 
----
-<div style="display: flex; align-items: center;">
-  <img src="../images/6.pdf" alt="Image" width="180" height="100" style="margin-right: 20px;">
-  <div style="display: flex; flex-direction: column;">
-    <span style="font-weight: bold;">4. Adversarial Signed Graph Learning with Differential Privacy [C].</span>
-    <span>Haobin Ke, Sen Zhang, etc.<br>The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026</span>
+<hr>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+  <img src="../images/MCDAGCN.png" alt="MCDAGCN" width="180" style="margin-right: 20px;">
+  <div>
+    <div style="font-weight: bold;">
+      2. <a href="https://ieeexplore.ieee.org/abstract/document/9964252" target="_blank">
+      Multi-Channel Domain Adaptation Graph Convolutional Networks-Based Fault Diagnosis Method With Its Application
+      </a>
+    </div>
+    <div>
+      Zhiwen Chen, <strong>Haobin Ke</strong> (co-first author), et al.<br>
+      <em>IEEE Transactions on Industrial Informatics</em>, 2023
+    </div>
   </div>
 </div>
----
+
+<hr>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+  <img src="../images/TFHGNN.png" alt="TFHGNN" width="180" style="margin-right: 20px;">
+  <div>
+    <div style="font-weight: bold;">
+      3. <a href="https://ieeexplore.ieee.org/abstract/document/10167156" target="_blank">
+      Time-frequency Hypergraph Neural Network for Rotating Machinery Fault Diagnosis with Limited Data
+      </a>
+    </div>
+    <div>
+      <strong>Haobin Ke</strong>, Zhiwen Chen, et al.<br>
+      <em>IEEE 12th Data Driven Control and Learning Systems Conference</em>, 2023
+      <br><span style="color:#c0392b;">(Best Paper Award Finalist)</span>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+  <img src="../images/kdd2026.png" alt="KDD 2026" width="180" style="margin-right: 20px;">
+  <div>
+    <div style="font-weight: bold;">
+      4. Adversarial Signed Graph Learning with Differential Privacy
+    </div>
+    <div>
+      <strong>Haobin Ke</strong>, Sen Zhang, et al.<br>
+      <em>SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2026
+      <br><span style="color:#2980b9;">(Submitted)</span>
+    </div>
+  </div>
+</div>
