@@ -58,7 +58,7 @@ author_profile: true
 <hr>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="../images/kdd2026.png" alt="KDD 2026" width="180" style="margin-right: 20px;">
+  <img src="../images/3953273590_704e3899d5_m.jpg" alt="KDD 2026" width="180" style="margin-right: 20px;">
   <div>
     <div style="font-weight: bold;">
       4. <a href="https://arxiv.org/abs/2512.00307" target="_blank"> 
