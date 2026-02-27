@@ -61,7 +61,8 @@ author_profile: true
   <img src="../images/kdd2026.png" alt="KDD 2026" width="180" style="margin-right: 20px;">
   <div>
     <div style="font-weight: bold;">
-      4. Adversarial Signed Graph Learning with Differential Privacy
+      4. <a href="https://arxiv.org/abs/2512.00307" target="_blank"> 
+      Adversarial Signed Graph Learning with Differential Privacy
     </div>
     <div>
       <strong>Haobin Ke</strong>, Sen Zhang, et al.<br>
