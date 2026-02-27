@@ -18,19 +18,19 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 
 * Skill: Python, C#, SQL and SCM programme.
 
-News
+🔥News
 ======
 
-* **Jan 2026** – Our work titled *"Adversarial Signed Graph Learning with Differential Privacy"* has been submitted to KDD 2026 Research Track Cycle 1. 📢
+* **Jan 2026** – Our work titled *"Adversarial Signed Graph Learning with Differential Privacy"* has been submitted to KDD 2026 Research Track Cycle 1! 🎉🎉 
 
-Education Background
+👨🏼‍🎓Education Background
 ======
 * B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.09-2021.07.
 * M.S. in Control Science and Engineering (Outstanding Graduates), Central South University, 2021.09-2024.06.
 * PhD student in Electrical and Electronic Engineering (Funded by PGS), The Hong Kong Polytechnic University, 2024.09-now.
 
 
-Research Funding/Projects
+📝Research Funding/Projects
 ======
 * Jan.2021-Dec.2023: Research on Few Samples Fault Diagnosis of Railway Electric Traction System Based on Graph Network
   * My job: Project Leader
@@ -44,7 +44,7 @@ Research Funding/Projects
   * My job: Main member in charge
   * Responsibilities: a) Develop information management system based on WPF framework and MySQL database, including interface design, personnel login, information import, information export and information screening functions, on-site testing, etc; b) Project communication and post-maintenance.
     
-Awards
+🏆Awards
 ======
 * First Class Undergraduate Scholarship in 2017, 2018 and 2019.
 * Model Student of Academic Records in 2017, 2018 and 2019.
