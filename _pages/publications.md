@@ -25,7 +25,17 @@ author_profile: true
   <img src="../images/TFHGNN.png" alt="Image" width="180" height="100" style="margin-right: 20px;">
   <div style="display: flex; flex-direction: column;">
     <span style="font-weight: bold;">3. Time-frequency Hypergraph Neural Network for Rotating Machinery Fault Diagnosis with Limited Data [C]. (Best paper award finalist)</span>
-    <span>Haobin Ke, Zhiwen Chen, etc.<br>The 2023 IEEE 12th Data Driven Control and Learning Systems Conference, 2023</span>
+    <span>Haobin Ke, Zhiwen Chen, etc.<br>The IEEE 12th Data Driven Control and Learning Systems Conference, 2023</span>
+  </div>
+</div>
+---
+
+---
+<div style="display: flex; align-items: center;">
+  <img src="../images/6.pdf" alt="Image" width="180" height="100" style="margin-right: 20px;">
+  <div style="display: flex; flex-direction: column;">
+    <span style="font-weight: bold;">4. Adversarial Signed Graph Learning with Differential Privacy [C].</span>
+    <span>Haobin Ke, Sen Zhang, etc.<br>The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026</span>
   </div>
 </div>
 ---
