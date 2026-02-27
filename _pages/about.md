@@ -18,6 +18,11 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 
 * Skill: Python, C#, SQL and SCM programme.
 
+News
+======
+
+* **Feb 2026** – Our work titled "Adversarial Signed Graph Learning with Differential Privacy" has been submitted to KDD 2026 Research Track Cycle 1. 
+
 Education Background
 ======
 * B.S. in Automation (Outstanding Graduates), Guangdong University of Technology, 2017.09-2021.07.
