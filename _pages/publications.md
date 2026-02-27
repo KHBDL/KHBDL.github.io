@@ -63,7 +63,7 @@ author_profile: true
   <img src="../images/3b575930cd98e8ff76ef6e1191250836.png" alt="TFHGNN" width="180" style="margin-right: 20px;">
   <div>
     <div style="font-weight: bold;">
-      4. <a href="https://ieeexplore.ieee.org/abstract/document/10167156" target="_blank">
+      4. <a href="https://www.sciencedirect.com/science/article/pii/S0019057824004026" target="_blank">
       Self-adaptive selection graph pooling based fault diagnosis method under few samples and noisy environment
       </a>
     </div>
