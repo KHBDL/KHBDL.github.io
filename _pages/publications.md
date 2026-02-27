@@ -60,7 +60,7 @@ author_profile: true
 <hr>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="../images/TFHGNN.png" alt="TFHGNN" width="180" style="margin-right: 20px;">
+  <img src="../images/3b575930cd98e8ff76ef6e1191250836.png" alt="TFHGNN" width="180" style="margin-right: 20px;">
   <div>
     <div style="font-weight: bold;">
       4. <a href="https://ieeexplore.ieee.org/abstract/document/10167156" target="_blank">
