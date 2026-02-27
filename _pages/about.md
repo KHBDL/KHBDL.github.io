@@ -55,7 +55,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 * First Class Postgraduate Scholarship in 2021, 2023.  
 * The 2nd Prize of the 19th China Postgraduate Mathematical Contest in Modelling, 2022.
 * The best paper award finalist in the 2023 IEEE 12th Data Driven Control and Learning Systems Conference.
-* Postgraduate National Scholarship in 2023 (The highest honour in China for graduate students).
+* Postgraduate National Scholarship in 2023.
 *	First Prize for the Graduate Student Innovation Forum Paper Presentation in Hunan Province, 2023.
 *	Outstanding Graduate of Central South University in 2024.
 
