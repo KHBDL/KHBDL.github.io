@@ -5,105 +5,165 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
 <style>
-  .image-container {
-    max-width: 300px; /* 设置图片容器的最大宽度 */
-    display: block; /* 让图片容器作为块级元素，使图片位于文字下方 */
-    margin-bottom: 30px; /* 设置图片容器与下方文字之间的间距 */
-  }
+.section-title {
+  font-weight: 600;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
 
-  .image-container img {
-    width: 80%; /* 设置图片的宽度为容器宽度的100%，实现等比例缩小 */
-    height: auto; /* 自动计算图片的高度，以保持图片比例不变 */
-  }
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 15px;
+  margin-bottom: 40px;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.photo-grid img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
 </style>
-</head>
-<body>
 
-<p>1. My undergraduate graduation ceremony：</p>
-
-<div class="image-container">
-  <img src="../images/1.jpg" alt="pic1">
-  
-  <img src="../images/3.jpg" alt="pic3">
+<div class="section-title">1. My Undergraduate Graduation Ceremony</div>
+<div class="photo-grid">
+  <img src="../images/1.jpg" alt="">
+  <img src="../images/3.jpg" alt="">
 </div>
 
-<p>2. Reporting my work in a IEEE conference  </p>
-  
-<div class="image-container">
-  <img src="../images/4.jpg" alt="pic4">
+<div class="section-title">2. Reporting My Work at an IEEE Conference</div>
+<div class="photo-grid">
+  <img src="../images/4.jpg" alt="">
 </div>
 
-<p>3. My NBA idol——Kyrie Andrew Irving and my loved basketball games</p>
-  
-<div class="image-container">
-  <img src="../images/5.jpg" alt="pic5">
-
-  <img src="../images/6.jpg" alt="pic6">
+<div class="section-title">3. My NBA Idol — Kyrie Irving & Basketball Games</div>
+<div class="photo-grid">
+  <img src="../images/5.jpg" alt="">
+  <img src="../images/6.jpg" alt="">
 </div>
 
-<p>4. My life in Changsha, a vibrant tourist city in China  </p>
-  
-<div class="image-container">
-  
-  <img src="../images/7.jpg" alt="pic7">
-
-  <img src="../images/8.jpg" alt="pic8">
-  
-  <img src="../images/9.jpg" alt="pic9">
-
-  <img src="../images/10.jpg" alt="pic10">
-  
-  <img src="../images/11.jpg" alt="pic11">
-  
-  <img src="../images/12.jpg" alt="pic12">
-
-  <img src="../images/13.jpg" alt="pic13">
-  
-</div>
-  
-<p>5. My journey to Shanghai in 2023, one of the most flourish cities in China  </p>
-  
-<div class="image-container">
-  
-  <img src="../images/14.jpg" alt="pic14">
-
-  <img src="../images/15.jpg" alt="pic15">
-  
-  <img src="../images/16.jpg" alt="pic16">
-
-  <img src="../images/17.jpg" alt="pic17">
-  
-  <img src="../images/18.jpg" alt="pic18">
-  
-  <img src="../images/19.jpg" alt="pic19">
-
-  <img src="../images/20.jpg" alt="pic20">
-    
-  <img src="../images/21.jpg" alt="pic21">
-
-  <img src="../images/22.jpg" alt="pic22">
-  
+<div class="section-title">4. My Life in Changsha, A Vibrant Tourist City in China</div>
+<div class="photo-grid">
+  <img src="../images/7.jpg" alt="">
+  <img src="../images/8.jpg" alt="">
+  <img src="../images/9.jpg" alt="">
+  <img src="../images/10.jpg" alt="">
+  <img src="../images/11.jpg" alt="">
+  <img src="../images/12.jpg" alt="">
+  <img src="../images/13.jpg" alt="">
 </div>
 
-<p>6. The snowy winter in CSU.  </p>
-  
-<div class="image-container">
-  
-  <img src="../images/23.jpg" alt="pic23">
-
-  <img src="../images/24.jpg" alt="pic24">
-  
-  <img src="../images/25.jpg" alt="pic25">
-
-  <img src="../images/26.jpg" alt="pic26">
-  
-  <img src="../images/27.jpg" alt="pic27">  
-  
+<div class="section-title">5. My Journey to Shanghai in 2023</div>
+<div class="photo-grid">
+  <img src="../images/14.jpg" alt="">
+  <img src="../images/15.jpg" alt="">
+  <img src="../images/16.jpg" alt="">
+  <img src="../images/17.jpg" alt="">
+  <img src="../images/18.jpg" alt="">
+  <img src="../images/19.jpg" alt="">
+  <img src="../images/20.jpg" alt="">
+  <img src="../images/21.jpg" alt="">
+  <img src="../images/22.jpg" alt="">
 </div>
-  
-</body>
-</html>
+
+<div class="section-title">6. The Snowy Winter in CSU</div>
+<div class="photo-grid">
+  <img src="../images/23.jpg" alt="">
+  <img src="../images/24.jpg" alt="">
+  <img src="../images/25.jpg" alt="">
+  <img src="../images/26.jpg" alt="">
+  <img src="../images/27.jpg" alt="">
+</div>---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+<style>
+.section-title {
+  font-weight: 600;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 15px;
+  margin-bottom: 40px;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.photo-grid img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+</style>
+
+<div class="section-title">1. My Undergraduate Graduation Ceremony</div>
+<div class="photo-grid">
+  <img src="../images/1.jpg" alt="">
+  <img src="../images/3.jpg" alt="">
+</div>
+
+<div class="section-title">2. Reporting My Work at an IEEE Conference</div>
+<div class="photo-grid">
+  <img src="../images/4.jpg" alt="">
+</div>
+
+<div class="section-title">3. My NBA Idol — Kyrie Irving & Basketball Games</div>
+<div class="photo-grid">
+  <img src="../images/5.jpg" alt="">
+  <img src="../images/6.jpg" alt="">
+</div>
+
+<div class="section-title">4. My Life in Changsha, A Vibrant Tourist City in China</div>
+<div class="photo-grid">
+  <img src="../images/7.jpg" alt="">
+  <img src="../images/8.jpg" alt="">
+  <img src="../images/9.jpg" alt="">
+  <img src="../images/10.jpg" alt="">
+  <img src="../images/11.jpg" alt="">
+  <img src="../images/12.jpg" alt="">
+  <img src="../images/13.jpg" alt="">
+</div>
+
+<div class="section-title">5. My Journey to Shanghai in 2023</div>
+<div class="photo-grid">
+  <img src="../images/14.jpg" alt="">
+  <img src="../images/15.jpg" alt="">
+  <img src="../images/16.jpg" alt="">
+  <img src="../images/17.jpg" alt="">
+  <img src="../images/18.jpg" alt="">
+  <img src="../images/19.jpg" alt="">
+  <img src="../images/20.jpg" alt="">
+  <img src="../images/21.jpg" alt="">
+  <img src="../images/22.jpg" alt="">
+</div>
+
+<div class="section-title">6. The Snowy Winter in CSU</div>
+<div class="photo-grid">
+  <img src="../images/23.jpg" alt="">
+  <img src="../images/24.jpg" alt="">
+  <img src="../images/25.jpg" alt="">
+  <img src="../images/26.jpg" alt="">
+  <img src="../images/27.jpg" alt="">
+</div>
