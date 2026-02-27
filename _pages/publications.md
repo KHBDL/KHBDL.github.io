@@ -16,6 +16,7 @@ author_profile: true
     <div>
       Jiamin Xu, <strong>Haobin Ke</strong> (co-first author), et al.<br>
       <em>IEEE Transactions on Industrial Informatics</em>, 2022
+      <br><span style="color:#c0392b;">(Accepted)</span>
     </div>
   </div>
 </div>
@@ -33,6 +34,7 @@ author_profile: true
     <div>
       Zhiwen Chen, <strong>Haobin Ke</strong> (co-first author), et al.<br>
       <em>IEEE Transactions on Industrial Informatics</em>, 2023
+      <br><span style="color:#c0392b;">(Accepted)</span>
     </div>
   </div>
 </div>
@@ -58,16 +60,34 @@ author_profile: true
 <hr>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="../images/3953273590_704e3899d5_m.jpg" alt="KDD 2026" width="180" style="margin-right: 20px;">
+  <img src="../images/TFHGNN.png" alt="TFHGNN" width="180" style="margin-right: 20px;">
   <div>
     <div style="font-weight: bold;">
-      4. <a href="https://arxiv.org/abs/2512.00307" target="_blank"> 
+      4. <a href="https://ieeexplore.ieee.org/abstract/document/10167156" target="_blank">
+      Self-adaptive selection graph pooling based fault diagnosis method under few samples and noisy environment
+      </a>
+    </div>
+    <div>
+      <strong>Haobin Ke</strong>, Zhiwen Chen, et al.<br>
+      <em>ISA transactions</em>, 2024
+      <br><span style="color:#c0392b;">(Accepted)</span>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+  <img src="../images/bc4d5be5dfb80d4c3db06ca9a9025293.png" alt="KDD 2026" width="180" style="margin-right: 20px;">
+  <div>
+    <div style="font-weight: bold;">
+      5. <a href="https://arxiv.org/abs/2512.00307" target="_blank"> 
       Adversarial Signed Graph Learning with Differential Privacy
     </div>
     <div>
       <strong>Haobin Ke</strong>, Sen Zhang, et al.<br>
       <em>SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2026
-      <br><span style="color:#2980b9;">(Submitted)</span>
+      <br><span style="color:#2980b9;">(Accepted)</span>
     </div>
   </div>
 </div>
