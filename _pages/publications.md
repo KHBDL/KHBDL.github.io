@@ -88,7 +88,7 @@ author_profile: true
     <div>
       <strong>Haobin Ke</strong>, Sen Zhang, et al.<br>
       <em>SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2026
-      <br><span style="color:#2980b9;">(Accepted)</span>
+      <br><span style="color:#c0392b;">(Accepted)</span>
     </div>
   </div>
 </div>
