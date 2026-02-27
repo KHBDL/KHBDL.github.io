@@ -21,7 +21,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 News
 ======
 
-* **Jan 2026** – Our work titled "Adversarial Signed Graph Learning with Differential Privacy" has been submitted to KDD 2026 Research Track Cycle 1.  <i class="fas fa-bullhorn"></i> 
+* **Jan 2026** – Our work titled *"Adversarial Signed Graph Learning with Differential Privacy"* has been submitted to KDD 2026 Research Track Cycle 1. 📢
 
 Education Background
 ======
