@@ -20,7 +20,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 
 🔥News
 ======
-
+* **March 2026** – Our work titled *"Canonical correlation guided deep neural network"* has been accepted by IEEE/CAA Journal of Automatica Sinica (2025 IF: 19.2)! 🎉🎉 
 * **Jan 2026** – Our work titled *"Adversarial Signed Graph Learning with Differential Privacy"* has been accepted by KDD 2026 Research Track Cycle 1! 🎉🎉 
 
 👨🏼‍🎓Education Background
