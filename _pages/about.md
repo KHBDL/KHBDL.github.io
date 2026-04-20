@@ -58,4 +58,5 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 * Postgraduate National Scholarship in 2023.
 *	First Prize for the Graduate Student Innovation Forum Paper Presentation in Hunan Province, 2023.
 *	Outstanding Graduate of Central South University in 2024.
+*	Outstanding Master Theses of Central South University in 2025.
 
