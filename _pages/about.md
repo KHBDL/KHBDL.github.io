@@ -60,3 +60,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 *	Outstanding Graduate of Central South University in 2024.
 *	Outstanding Master Theses of Central South University in 2025.
 
+📝Reviewer
+======
+* IEEE Transactions on Industrial Informatics
+* Engineering Applications of Artificial Intelligence
