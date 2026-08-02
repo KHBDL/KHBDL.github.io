@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes LLM safety and data privacy, graph Learning, data-driven fault diagnosis and computational intelligence.
+I'm a PhD Student from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Haibo Hu (ASTAPLE)](https://haibohu.org/). I received the Master’s degree in Control Science and Engineering (Outstanding Graduates) with the School of Automation, Central South University, in 2024, under the supervision of [Prof. Zhiwen Chen](https://faculty.csu.edu.cn/zhiwen_chen/zh_CN/index.htm).
+
+My recent research interest includes LLM safety and data privacy, graph Learning, data-driven fault diagnosis and computational intelligence.
 
 You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vitae_new.pdf).
 
