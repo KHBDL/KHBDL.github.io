@@ -64,6 +64,7 @@ You can find my CV here: [Haobin Ke's Curriculum Vitae](../assets/Curriculum_Vit
 
 📝Reviewer
 ======
+* IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Industrial Informatics
 * Engineering Applications of Artificial Intelligence
-* IEEE Transactions on Dependable and Secure Computing
+* Measurement
